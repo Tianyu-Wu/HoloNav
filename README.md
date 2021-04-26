@@ -1,4 +1,4 @@
-# HoloNav
+# HoloNav: A Mixed Reality IndoorNavigation System
 ## Introduction
 ### Two design variations
 1. Hand-invoked minimap + arrows as navigation visualization
@@ -32,3 +32,6 @@
 Our application is partially adapted based on the following official tutorials.
 - To get around with Azure Spatial Anchor, we suggest checking out the HoloLens's official tutorials on [***Azure Spatial Anchors***](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/tutorials/mr-learning-asa-01).
 - For integrating Azure Cloud Services into the app, we found the tutorials on [***Azure Cloud Services for HoloLens 2***](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/tutorials/mr-learning-azure-01) very useful.
+## Authors
+Tianyu Wu, Laura Schalbette, and Xavier Brunnner
+In completion of Interdisciplinary Project Thesis 2019, ETH Zurich
