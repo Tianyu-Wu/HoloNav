@@ -34,4 +34,5 @@ Our application is partially adapted based on the following official tutorials.
 - For integrating Azure Cloud Services into the app, we found the tutorials on [***Azure Cloud Services for HoloLens 2***](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/tutorials/mr-learning-azure-01) very useful.
 ## Authors
 Tianyu Wu, Laura Schalbette, and Xavier Brunnner
+
 In completion of Interdisciplinary Project Thesis 2019, ETH Zurich
