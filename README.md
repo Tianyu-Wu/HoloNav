@@ -27,7 +27,7 @@
   - Open the project with unity, from the hierarchy, select "Data Manager" then input the "Connection String"
   - Specify the "Spatial Anchor Table Name", which will store all the auxillary information about the anchors to be created
   - Specify the "Adjacent List Table Name", which will store the spatial relationship between the two connected anchors
-< Note: Azure Table Storage is a free service offer by Azure, which is sufficient for this project, yet Azure does also offer more advanced storage service *Azure Cosmos DB*. In addition, according to the official documentation, the Table API is integrated to Cosmos DB SDK in the newer version.
+> Note: Azure Table Storage is a free service offer by Azure, which is sufficient for this project, yet Azure does also offer more advanced storage service *Azure Cosmos DB*. In addition, according to the official documentation, the Table API is integrated to Cosmos DB SDK in the newer version.
 ## Useful links
 Our application is partially adapted based on the following official tutorials.
 - To get around with Azure Spatial Anchor, we suggest checking out the HoloLens's official tutorials on [***Azure Spatial Anchors***](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/tutorials/mr-learning-asa-01).
