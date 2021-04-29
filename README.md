@@ -2,9 +2,9 @@
 ## Introduction
 Wayfinding indoors still has not been studied to the same extent as wayfind-ing outdoors. Though some approaches have been explored in recent studies forindoor navigation, no standard methods exist. Motivated recently-emersed Augmented Reality and Mixed Reality technologies, this research demonstrates a feasible workflow of developing a Mixed Reality indoor navigation system, HoloNav,on Microsoft HoloLens 2. The system utilized Azure Spatial Anchors as virtualmarkers for labeling landmarks. A user study was conducted on the two variantsof HoloNav designed with two different navigation visualizations to help gaininformation about the kind of visualizations preferred in a Mixed Reality navigation system. Furthermore, the benefits of Mixed Reality navigation systemscompared to traditional systems are also highlighted and discussed via a user study with more than twenty users.
 
-For more details about the project, checkout our [report](https://polybox.ethz.ch/index.php/apps/files/?dir=/Shared/IPA_AS2020_BrunnerSchalbetterWu_FinalSubmission/01_Report&fileid=2207893813#pdfviewer)
-
 [![HoloNav](https://img.youtube.com/vi/Gzxj2bzMrBU/0.jpg)](https://www.youtube.com/watch?v=Gzxj2bzMrBU)
+
+For more details about the project, checkout our [report](https://polybox.ethz.ch/index.php/apps/files/?dir=/Shared/IPA_AS2020_BrunnerSchalbetterWu_FinalSubmission/01_Report&fileid=2207893813#pdfviewer)
 ### Main functionalities
 - Mapping
   - Create new anchors of interest in the environment
