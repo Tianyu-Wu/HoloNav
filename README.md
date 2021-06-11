@@ -4,7 +4,7 @@ Wayfinding indoors still has not been studied to the same extent as wayfind-ing 
 
 [![HoloNav](https://img.youtube.com/vi/Gzxj2bzMrBU/0.jpg)](https://www.youtube.com/watch?v=Gzxj2bzMrBU)
 
-For more details about the project, checkout our [report](./IPA_report.pdf)
+For more details about the project, checkout our [report](IPA_report.pdf)
 ### Main functionalities
 - Mapping
   - Create new anchors of interest in the environment
